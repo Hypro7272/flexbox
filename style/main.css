@@ -104,6 +104,97 @@ body{
     line-height: 24px;
     margin: 0px 0px 25px 0px;
 }
+
+
+.columns{
+    background-color: #f5f5f5;
+    padding: 50px 0;
+}
+.columns__title{
+    display: flex;
+    justify-content: center;
+    padding: 0px 0px 30px 0px;
+}
+.columns__row{
+    display: flex;
+}
+
+
+.columns__left{
+    padding: 0px 11px 0px 0px;
+}
+.columns__left__top{
+    display: flex;
+    padding: 0px 0px 30px 0px;
+}
+.left__top__body{
+    padding: 0px 0px 0px 15px;
+}
+
+
+
+.columns__left__bottom {
+    display: flex;
+    padding: 0px 0px 30px 0px;
+}
+.left__bottom__body{
+    padding: 0px 0px 0px 15px;
+}
+
+
+.columns__right__top {
+    display: flex;
+    padding: 0px 0px 30px 0px;
+}
+.right__top__body{
+    padding: 0px 0px 0px 15px;
+}
+
+.columns__right__bottom {
+    display: flex;
+    padding: 0px 0px 30px 0px;
+}
+.right__bottom__body{
+    padding: 0px 0px 0px 15px;
+}
+
+
+
+
+
+
+
+
+.comtit{
+    padding: 0px 0px 16px 0px;
+    color: #445161;
+    line-height: 17px;
+    font-size: 24px;
+}
+.text2 {
+    color: #333333;
+    font-size: 16px;
+    line-height: 24px;
+}
+.kubik__image{
+    flex: 0 0 200px;
+}
+.kubik__image img{
+    max-width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 .footer{
     background-color: #f5f5f5;
 }
